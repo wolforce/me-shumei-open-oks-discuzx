@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">《一键签到》DiscuzX论坛签到插件</string>
+    <string name="label_activity_main">DiscuzX论坛签到</string>
+    
+    
+    
+    <!-- “添加任务”的弹出窗口上显示的插件名称 -->
+    <string name="cfg_plugin_name">DiscuzX系列论坛签到</string>
+    
+    <!-- 插件作者 -->
+    <string name="cfg_author">家前李树</string>
+    
+    <!-- “添加任务”的弹出窗口上显示的说明信息，提示用户怎么使用此插件 -->
+    <string name="cfg_info">适用于DiscuzX系列论坛的签到(只针对DSU每日打卡插件，且插件没改名字。本身没有开放签到功能的也无法签到。)\n请在“配置”栏内填写论坛地址，如:http://bbs.gxut.edu.cn \n网址的前面一定要有“http://”,末尾不能有斜杠</string>
+    
+    <!--
+    在“添加任务”的弹出窗口上显示的“配置”界面类型
+    0表示不需要显示显示任何配置界面
+    1表示直接由主程序提供一个简单的文本框来让用户输入数据
+    2表示由插件自己来完成配置界面的高级定制
+    -->
+    <string name="cfg_config_type">1</string>
+    
+    <!-- 该任务每日可签到的次数 -->
+    <string name="cfg_times">1</string>
+
+</resources>
